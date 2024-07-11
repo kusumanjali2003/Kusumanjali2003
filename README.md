@@ -6,9 +6,10 @@ A passionate full-stack web developer who excels in crafting robust solutions.
 
 -----
 # 💫 About Me:
-🔭 I’m currently working on Django<br>🌱 I’m currently learning React<br>💬 Ask me about Programming, Django<br>📫 How to reach me:kusumagowda0903@gmail.com
+🔭 I’m currently working on Django<br>🌱 I’m currently learning Django<br>💬 Ask me about Programming, Django<br>📫 How to reach me:kusumagowda0903@gmail.com
 
 ----
+
 
 
 ## 🌐 Socials:
